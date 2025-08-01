@@ -2,8 +2,8 @@
 
 🎓 I'm a Computer Science student passionate about building software that solves real-world problems.  
 💻 I enjoy developing full-stack applications, learning new technologies, and contributing to meaningful projects.  
-🌱 Currently learning: Spring Boot, React, Node.js  
-📫 Reach me: [mduduzi@example.com](mailto:mduduzi@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile) *(replace link)*
+🌱 Currently learning: Spring Boot, React, Node.js, Java, JavaScript, Python, C++
+
 
 ---
 
